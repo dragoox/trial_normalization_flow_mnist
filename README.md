@@ -1,0 +1,2 @@
+# My Trial on Implementing Normalizing Flow
+This work is based on the GLOW paper (https://arxiv.org/abs/1807.03039) and NICE (https://arxiv.org/abs/1410.8516) . There's lot of component that haven't been implemented. The initial results still look bad, and still have lot of room for improvements. It can model the background as black, but the digit still looks bad(not look like a number).  There's maybe still some implementation that's wrong as the results is not good. 
